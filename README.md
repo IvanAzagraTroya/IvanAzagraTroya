@@ -24,14 +24,4 @@ I'd like to develop my abilities and continue developing more games and initiali
 
 ## Connect with me
 
-[Instagram]  [Twitter] 
-
-[Instagram]: (https://www.instagram.com/ivi_azagration/)
-[Twitter]: (https://twitter.com/AzagraIvan)
-<!-- [Linkedin] -->
-<!-- [Linkedin]: -->
-
-<!---
-IvanAzagraTroya/IvanAzagraTroya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/ivi_azagration/) &nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/AzagraIvan) 
