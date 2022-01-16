@@ -24,10 +24,11 @@ I'd like to develop my abilities and continue developing more games and initiali
 
 ## Connect with me
 
-&nbsp;&nbsp;&nbsp;[Instagram] &nbsp;&nbsp;&nbsp; [Twitter] <!-- [Linkedin] -->
+&nbsp;&nbsp;&nbsp;[Instagram] &nbsp;&nbsp;&nbsp; [Twitter] 
 
 [Instagram]: (https://www.instagram.com/ivi_azagration/)
 [Twitter]: (https://twitter.com/AzagraIvan)
+<!-- [Linkedin] -->
 <!-- [Linkedin]: -->
 
 <!---
