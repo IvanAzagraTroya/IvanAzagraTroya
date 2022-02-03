@@ -25,3 +25,5 @@ I'd like to develop my abilities and continue developing more games and initiali
 ## Connect with me
 
 &nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/ivi_azagration/) &nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/AzagraIvan) 
+## Fancy things
+[Unity badge](https://www.credly.com/badges/aa22417f-f0f8-45af-b90f-446b6534afb4/public_url)
