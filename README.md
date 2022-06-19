@@ -7,7 +7,7 @@ Im currently studying **multiplatform app development at I.E.S Luis Vives** and 
 
 ## My Interests
 I like playing the guitar, videogames, basketball and coding.
-I'd like to develop my abilities and continue developing more games and initialize into mobile development in the future, im also interested in front end so we'll see how that goes.
+I'd like to develop my abilities and continue working on more games also would like to learn mobile development in the future, im also interested in front end so we'll see how that goes.
 
 ## Looking to collaborate on
 1. Game Development
