@@ -1,4 +1,4 @@
-## Hello and welcome to my repositories
+## Hello and welcome to my repository
 ### I'm a young developer student hoping to learn more about programming and app development
 ### Some of my knowledge
 _My private repositories may be public once there is a notable ***advance*** on it_.
