@@ -3,7 +3,7 @@
 ### Some of my knowledge
 _My private repositories may be public once there is a notable ***advance*** on it_.
 
-Im currently studying **multiplatform app development at I.E.S Luis Vives** and have knowledge of board prototyping and game development [link to my (future) developed games](https://ivanazagratroya.itch.io/) *right now im polishing my first release at the moment*
+Im currently studying **multiplatform app development at I.E.S Luis Vives** and have knowledge of board prototyping and game development [link to my (future) developed games](https://blobthevod.itch.io/) *right now im polishing my first release at the moment*
 
 ## My Interests
 I like playing the guitar, videogames, basketball and coding.
