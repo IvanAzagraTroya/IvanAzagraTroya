@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at IES Luis Vives
 -------------------------
 
-I'm a passionate development student that likes to try with different technologies while experimenting. I like to try new things and challenge myself to acomplish dificult tasks.
+I'm a passionate development student that likes to try different technologies while experimenting. I like to try new things and challenge myself to acomplish difficult tasks.
 
 * 🌍  I'm based in Spain, living currently in Madrid.
 * 🖥️  See my portfolio at [My porfotlio is to be done.cometomorrowpls](http:// (work in progress))
@@ -12,7 +12,7 @@ I'm a passionate development student that likes to try with different technologi
 * 🧠  I'm learning How to develop multiplatform apps, using different languages on CFGS DAM(Multiplatform App Development) or Software development and trying to introduce myself into React.
 * 🤝  I'm open to collaborating on fun projects
 * ⚡  I really enjoy trying new things on my own. [link to my itch.io](https://blobthevod.itch.io/),  where i upload some Unity projects *right now im polishing my first release at the moment*.
-I like playing the guitar, videogames, basketball and coding.
+I like to play the guitar, videogames, basketball and to code.
 
 <a href="https://www.twitter.com/AzagraIvan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AzagraIvan?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
