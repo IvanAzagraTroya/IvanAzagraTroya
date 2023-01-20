@@ -9,7 +9,7 @@ I'm a passionate development student that likes to try different technologies wh
 * 🌍  I'm based in Spain, living currently in Madrid.
 * 🖥️  See my portfolio at [My porfotlio is to be done.cometomorrowpls](http:// (work in progress))
 * ✉️  You can contact me at [ivanazagratroya@hotmail.com](mailto:ivanazagratroya@hotmail.com)
-* 🧠  I'm learning How to develop multiplatform apps, using different languages on CFGS DAM(Multiplatform App Development) or Software development and trying to introduce myself into React.
+* 🧠  I'm learning How to develop multiplatform apps, using different languages on CFGS DAM(Cross platform software development) or Software development and trying to introduce myself into React.
 * 🤝  I'm open to collaborating on fun projects
 * ⚡  I really enjoy trying new things on my own. [link to my itch.io](https://blobthevod.itch.io/),  where i upload some Unity projects *right now im polishing my first release at the moment*.
 I like to play the guitar, videogames, basketball and to code.
