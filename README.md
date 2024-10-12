@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Iván Azagra Troya
 =========================================================================================================================================
 
-Student at IES Luis Vives
+Developer at Inypsa
 -------------------------
 
 I'm a passionate development student that likes to try different technologies while experimenting. I like to try new things and challenge myself to acomplish difficult tasks.
@@ -9,14 +9,10 @@ I'm a passionate development student that likes to try different technologies wh
 * 🌍  I'm based in Spain, living currently in Madrid.
 * 🖥️  See my portfolio at [My porfotlio is to be done.cometomorrowpls](http:// (work in progress))
 * ✉️  You can contact me at [ivanazagratroya@hotmail.com](mailto:ivanazagratroya@hotmail.com)
-* 🧠  I'm learning How to develop multiplatform apps, using different languages on CFGS DAM(Cross platform software development) or Software development and trying to introduce myself into React.
-* 🤝  I'm open to collaborating on fun projects
-* ⚡  I really enjoy trying new things on my own. [link to my itch.io](https://blobthevod.itch.io/),  where i upload some Unity projects *right now im polishing my first release at the moment*.
+* 🧠  I've learn how to develop solutions through code while my time studying Multiplatform software development at IES Luis Vives (CFGS Desarrollo de aplicaciones multiplataforma)
+* 🤝  I'm open to learn new things and work on interesting projects.
+* ⚡  I really enjoy trying new things on my own as it can be seen on this repository.
 I like to play the guitar, videogames, basketball and to code.
-
-<a href="https://www.twitter.com/AzagraIvan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AzagraIvan?logo=twitter&style=for-the-badge&color=22c55e&labelColor=0f172a"
-/></a>
 
 ### Skills
 
@@ -36,7 +32,7 @@ src="https://img.shields.io/twitter/follow/AzagraIvan?logo=twitter&style=for-the
 
 ### Socials
 
-<p align="center"> <a href="https://www.github.com/IvanAzagraTroya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iván-azagra-troya-2a7599215/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AzagraIvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/IvanAzagraTroya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/iván-azagra-troya-2a7599215/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
