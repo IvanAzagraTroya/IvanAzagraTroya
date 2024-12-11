@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer at Inypsa
 -------------------------
 
-I'm a passionate development student that likes to try different technologies while experimenting. I like to try new things and challenge myself to acomplish difficult tasks.
+I'm a passionate developer that likes to try different technologies while experimenting. I like to try new things and challenge myself to acomplish difficult tasks.
 
 * 🌍  I'm based in Spain, living currently in Madrid.
 * 🖥️  See my portfolio at [My porfotlio is to be done.cometomorrowpls](http:// (work in progress))
