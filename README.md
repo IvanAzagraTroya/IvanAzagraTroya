@@ -7,7 +7,7 @@ Developer at Inypsa
 I'm a passionate developer that likes to try different technologies while experimenting. I like to try new things and challenge myself to acomplish difficult tasks.
 
 * 🌍  I'm based in Spain, living currently in Madrid.
-* 🖥️  See my portfolio at [My porfotlio is to be done.cometomorrowpls](http:// (work in progress))
+* 🖥️  See my portfolio here [Portfolio](https://ivanazagratroya.github.io/protofolio-v2/)
 * ✉️  You can contact me at [ivanazagratroya@hotmail.com](mailto:ivanazagratroya@hotmail.com)
 * 🧠  I've learn how to develop solutions through code while my time studying Multiplatform software development at IES Luis Vives (CFGS Desarrollo de aplicaciones multiplataforma)
 * 🤝  I'm open to learn new things and work on interesting projects.
